@@ -80,24 +80,26 @@ const Achievements = () => {
           >
             Certificates
           </h2>
-          <div className="kets" width="200">
+          <div className="kets " my-auto width="200">
             <a
-              className="ud"
+              className="ud my-auto"
               href="http://https://www.udemy.com/certificate/UC-349ae51b-41d3-48a6-a93a-e9c9d5dfb269/"
               target="_blank"
             >
               <img src={images["udemy.png"]} height="40px" alt="" />
-              <h5 className="ude">PYTHON Programming for Beginners - 2022</h5>
+              <h5 className="ude my-auto">
+                PYTHON Programming for Beginners - 2022
+              </h5>
             </a>
           </div>
-          <div className="" width="200">
+          <div className="my-auto" width="200">
             <a
               className="ud"
               href="http://https://www.udemy.com/certificate/UC-349ae51b-41d3-48a6-a93a-e9c9d5dfb269/"
               target="_blank"
             >
               <img src={images["greatlearning.png"]} height="40px" alt="" />
-              <h5 className="ude"> Introduction to DevOps</h5>
+              <h5 className="ude my-auto"> Introduction to DevOps</h5>
             </a>
           </div>
         </div>

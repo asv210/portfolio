@@ -18,22 +18,21 @@ const Contactme = () => {
         <div className="box mt-5 mx-5">
           <form>
             <div className="formm">
-              <h1>Contact me</h1>
+              <h1 className="h" style={{ color: "white" }}>
+                Contact me
+              </h1>
               <label
                 className="textform d-flex justify-content-start"
                 htmlFor="name"
+                style={{ color: "white" }}
               >
                 Name
               </label>
-              <input
-                className="textform mb-3"
-                type="text"
-                id="name"
-                style={{ width: "100%" }}
-              />
+              <input className="textform mb-3" type="text" id="name" />
               <label
                 className="textform d-flex justify-content-start"
                 htmlFor="email"
+                style={{ color: "white" }}
               >
                 Email
               </label>
@@ -41,6 +40,7 @@ const Contactme = () => {
               <label
                 className="textform d-flex justify-content-start"
                 htmlFor="message"
+                style={{ color: "white" }}
               >
                 Message
               </label>

@@ -64,8 +64,8 @@ const Contactme = () => {
           >
             <img
               className="icon"
-              width="40"
-              height="40"
+              width="30"
+              height="30"
               src={images["LinkedIn.png"]}
               alt=""
             ></img>
@@ -79,8 +79,8 @@ const Contactme = () => {
           >
             <img
               className="icon"
-              width="40"
-              height="40"
+              width="30"
+              height="30"
               src={images["Instagram.webp"]}
               alt=""
             ></img>
@@ -94,8 +94,8 @@ const Contactme = () => {
           >
             <img
               className="icon"
-              width="40px"
-              height="40px"
+              width="30px"
+              height="30px"
               src={images["git.png"]}
               alt=""
             ></img>
@@ -109,8 +109,8 @@ const Contactme = () => {
           >
             <img
               className="icon"
-              width="40"
-              height="40"
+              width="30"
+              height="30"
               src={images["twitter.png"]}
               alt=""
             ></img>

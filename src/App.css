@@ -68,6 +68,49 @@ font-family: 'Finlandica', sans-serif;
 
   
 }
+.content{
+  justify-content: center;
+  color: white;
+  float:left;
+  line-height: 2rem;
+  font-weight: bolder;
+  font-style:'Finlandica',
+    sans-serif;
+}
+.coll:hover{
+  color: #04f8e0;
+}
+.cur:hover {
+  color: #04f8e0;
+}
+.ilik:hover {
+  color: #04f8e0;
+}
+.buid:hover {
+  color: #04f8e0;
+}
+.fou:hover {
+  color: #04f8e0;
+}
+.flu:hover {
+  color: #04f8e0;
+}
+.fou,.flu,.ilik,.coll,.cur,.buid{
+list-style-type: none;
+}
+.hop {
+  
+  font-size: 26px;
+  line-height: 10rem;
+    color: #c9ada7;
+list-style-type: none;
+letter-spacing: 1px;
+word-spacing: 2px;
+}
+.hop:hover{
+letter-spacing: 3px;
+word-spacing: 2px;
+}
 
 .icon{
 height: 3rem;

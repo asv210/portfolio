@@ -6,16 +6,30 @@ const Aboutme = () => {
       <div className="aboutm">
         <div>
           <div className="content">
-            <h3 style={{ color: "white" }}>
-              I'm currently studing in <br /> Dharmsinh Desai University
-            </h3>
-
-            <h5 style={{ color: "white" }}>
-              -= Currently building websites , <br />
-              -= Focusing on strong my DSA concepts <br />
-              -= Including new topics in it for better efficiency. <br />
-              -= Devops Enthusiast <br /> -= Flutter learning
-            </h5>
+            <ul className="kkkl">
+              <li className="hop">
+                My Name is Apar Vipulkumar Solanki From Una
+              </li>
+              <li className="cur">
+                Currently I'm studing Information Technology in Dharmsinh Desai
+                University
+              </li>
+              <li className="ilik">
+                I Like To Exploar New Things In Technology, Business And Travel.
+              </li>
+              <li className="buid">
+                Currently Building Websites Using HTML , CSS , JS , REACTJS ,
+                BOOTSTRAP
+              </li>
+              <li className="fou">
+                Focusing on Strong my DSA Concepts and Practicing on Various
+                Platforms
+              </li>
+              <li className="flu">
+                Currently Learning Devops , Flutter , Backend of Website
+              </li>
+              <li className="coll">Focused on College Subjects</li>
+            </ul>
           </div>
         </div>
       </div>

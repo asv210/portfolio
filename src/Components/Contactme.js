@@ -16,7 +16,10 @@ const Contactme = () => {
     <>
       <div className="d-flex justify-content-center mb-5">
         <div className="box mt-5 mx-5">
-          <form>
+          <form
+            action="https://formsubmit.co/darknick414@gmail.com"
+            method="POST"
+          >
             <div className="formm">
               <h1 className="h" style={{ color: "white" }}>
                 Contact me
@@ -28,7 +31,12 @@ const Contactme = () => {
               >
                 Name
               </label>
-              <input className="textform mb-3" type="text" id="name" />
+              <input
+                name="name"
+                className="textform mb-3"
+                type="text"
+                id="name"
+              />
               <label
                 className="textform d-flex justify-content-start"
                 htmlFor="email"
@@ -36,7 +44,17 @@ const Contactme = () => {
               >
                 Email
               </label>
-              <input className="textform mb-3" type="email" id="email" />
+              <input
+                name="email"
+                className="textform mb-3"
+                type="email"
+                id="email"
+              />
+              <input
+                type="hidden"
+                name="_next"
+                value="https://portfolio-apar1223.vercel.app/"
+              />
               <label
                 className="textform d-flex justify-content-start"
                 htmlFor="message"
@@ -44,10 +62,16 @@ const Contactme = () => {
               >
                 Message
               </label>
-              <textarea className="textform " type="text" id="message" />
+              <textarea
+                name="text"
+                className="textform "
+                type="text"
+                id="message"
+              />
               <button type="submit" className="form-button">
                 Send
               </button>
+              <input type="hidden" name="_captcha" value="false" />
             </div>
           </form>
         </div>

@@ -32,7 +32,7 @@ const Achievements = () => {
               alt=""
             />
           </a>
-          <a target="_blank" href="https://leetcode.com/apar1223/">
+          <a target="_blank" href="https://www.hackerrank.com/solankiapar12">
             <img
               className="pic2"
               src={images["hackerank-logo.png"]}
@@ -62,7 +62,7 @@ const Achievements = () => {
             />
           </a>
 
-          <a target="_blank" href="https://github.com/apar1223">
+          <a target="_blank" href="https://github.com/asv210">
             <img
               className="pic5"
               src={images["github2.png"]}

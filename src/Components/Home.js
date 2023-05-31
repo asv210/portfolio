@@ -1,7 +1,7 @@
 import React from "react";
 import "../App.css";
-import photo from "../Components/images/uwhe.jpg";
-
+import photo from "../Components/images/uw.jpg";
+import { NavLink } from "react-router-dom";
 const Home = () => {
   return (
     <>
@@ -23,6 +23,13 @@ const Home = () => {
             <h5 className="hey">Hey! I AM</h5>
             <h1 className="nam">APAR SOLANKI</h1>
             <h3 className="dev">I'm a Developer</h3>
+            <a
+              className="dev1"
+              href="https://drive.google.com/file/d/1dlb4WouZzT2hfHzOJbyZSwCjdBXEWwLO/view"
+              target="_blank"
+            >
+              Here's the resume Link
+            </a>
           </div>
         </div>
       </div>

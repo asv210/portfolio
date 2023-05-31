@@ -6,12 +6,16 @@ import Aboutme from "./Components/Aboutme";
 import Skills from "./Components/Skills";
 import Achievements from "./Components/Achievements";
 import Contactme from "./Components/Contactme";
+import ProjectItem from "./Components/ProjectItem";
+import Project from "./Components/Project";
 function App() {
   return (
     <div className="App">
       <Router>
         <Navbar></Navbar>
         <Routes>
+          <Route exact path="/ProjectItem" element={<ProjectItem />} />
+          <Route exact path="/Project" element={<Project />} />
           <Route exact path="/" element={<Home></Home>} />
           <Route exact path="/Aboutme" element={<Aboutme></Aboutme>} />
           <Route exact path="/Skills" element={<Skills></Skills>} />

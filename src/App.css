@@ -49,6 +49,18 @@ font-family: 'Finlandica', sans-serif;
     letter-spacing: 2px;
   font-family: 'Finlandica', sans-serif;
 }
+.dev1:hover {
+  color: #2ec4b6;
+  letter-spacing: 4px;
+}
+.dev1 {
+  color: white;
+  letter-spacing: 3px;
+  text-decoration:underline;
+  font-family: 'Finlandica', sans-serif;
+  font-weight: 900;
+}
+
 .navbar-brand:hover{
   letter-spacing: 2px;
 }

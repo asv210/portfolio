@@ -102,6 +102,26 @@ const Achievements = () => {
               <h5 className="ude my-auto"> Introduction to DevOps</h5>
             </a>
           </div>
+          <div className="my-auto" width="200">
+            <a
+              className="ud"
+              href="http://https://www.udemy.com/certificate/UC-349ae51b-41d3-48a6-a93a-e9c9d5dfb269/"
+              target="_blank"
+            >
+              <img src={images["aws.png"]} height="40px" alt="" />
+              <h5 className="ude my-auto"> AWS Academy Cloud Foundations </h5>
+            </a>
+          </div>
+          <div className="my-auto" width="200">
+            <a
+              className="ud"
+              href="http://https://www.udemy.com/certificate/UC-349ae51b-41d3-48a6-a93a-e9c9d5dfb269/"
+              target="_blank"
+            >
+              <img src={images["greatlearning.png"]} height="40px" alt="" />
+              <h5 className="ude my-auto"> Introduction to DevOps</h5>
+            </a>
+          </div>
         </div>
       </div>
     </>

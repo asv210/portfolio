@@ -97,7 +97,7 @@ const Contactme = () => {
         </div>
         <div className="icon1">
           <a
-            href="https://www.instagram.com/apar_21_02/"
+            href="https://www.instagram.com/_.just._.av/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -112,7 +112,7 @@ const Contactme = () => {
         </div>
         <div className="icon1">
           <a
-            href="http://github.com/apar1223"
+            href="http://github.com/asv210"
             target="_blank"
             rel="noopener noreferrer"
           >

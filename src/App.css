@@ -107,14 +107,17 @@ font-family: 'Finlandica', sans-serif;
 .flu:hover {
   color: #04f8e0;
 }
+.cur{
+  margin-top: 20px;
+}
 .fou,.flu,.ilik,.coll,.cur,.buid{
 list-style-type: none;
 }
 .hop {
-  
+  font-family:monospace;
   font-size: 26px;
-  line-height: 3rem;
-    color: #c9ada7;
+  line-height: 2rem;
+    color: rgb(175, 245, 71);
 list-style-type: none;
 letter-spacing: 1px;
 word-spacing: 2px;
@@ -155,6 +158,9 @@ margin-right: 2rem;
 
 .plat{
   display: inline-grid;
+}
+.kkkl{
+  line-height: 30px;
 }
 .pic1,.pic2,.pic3,.pic4,.pic5{
   background-color: white;

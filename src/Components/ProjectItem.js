@@ -7,12 +7,15 @@ const ProjectItem = (props) => {
       className="cardd d-flex justify-content-center my-5 col-xl-4"
       style={{ height: "32rem", boxShadow: "white" }}
     >
-      <div className="card" style={{ width: "20rem" }}>
+      <div
+        className="card"
+        style={{ width: "20rem", backgroundColor: "black" }}
+      >
         <img
           className="card-img-top"
           src={props.photo}
           alt="..."
-          style={{ height: "15rem", width: "19.9rem" }}
+          style={{ height: "14rem", width: "19.9rem" }}
         />
         <div className="card-body">
           <h5
@@ -21,8 +24,15 @@ const ProjectItem = (props) => {
           >
             {props.name}
           </h5>
-          <div className="description d-flex justify-content-center">
-            <p className="card-text" style={{ color: "white" }}>
+          <div className="description d-flex justify-content-center ">
+            <p
+              className="card-text"
+              style={{
+                color: "white",
+                height: "10rem",
+                overflowY: "scroll",
+              }}
+            >
               {props.description}
             </p>
           </div>
@@ -31,6 +41,7 @@ const ProjectItem = (props) => {
             target="_blank"
             rel="noreferrer"
             className="btn btn-primary mx-2 align-self-end"
+            style={{ boxShadow: "white" }}
           >
             View Code
           </a>

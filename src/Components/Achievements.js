@@ -83,7 +83,7 @@ const Achievements = () => {
           <div className="kets " my-auto width="200">
             <a
               className="ud my-auto"
-              href="http://https://www.udemy.com/certificate/UC-349ae51b-41d3-48a6-a93a-e9c9d5dfb269/"
+              href="https://www.udemy.com/certificate/UC-349ae51b-41d3-48a6-a93a-e9c9d5dfb269/"
               target="_blank"
             >
               <img src={images["udemy.png"]} height="40px" alt="" />
@@ -95,7 +95,7 @@ const Achievements = () => {
           <div className="my-auto" width="200">
             <a
               className="ud"
-              href="http://https://www.udemy.com/certificate/UC-349ae51b-41d3-48a6-a93a-e9c9d5dfb269/"
+              href="https://olympus.mygreatlearning.com/courses/38652/certificate/"
               target="_blank"
             >
               <img src={images["greatlearning.png"]} height="40px" alt="" />
@@ -105,7 +105,7 @@ const Achievements = () => {
           <div className="my-auto" width="200">
             <a
               className="ud"
-              href="http://https://www.udemy.com/certificate/UC-349ae51b-41d3-48a6-a93a-e9c9d5dfb269/"
+              href="https://www.credly.com/badges/5c08d826-7cb4-45b0-bc5e-24018936f52d/public_url"
               target="_blank"
             >
               <img src={images["aws.png"]} height="40px" alt="" />
@@ -115,11 +115,53 @@ const Achievements = () => {
           <div className="my-auto" width="200">
             <a
               className="ud"
-              href="http://https://www.udemy.com/certificate/UC-349ae51b-41d3-48a6-a93a-e9c9d5dfb269/"
+              href="https://drive.google.com/file/d/1DEp_BypoUPJ7JjMzJVCI7llZvNbwHyN6/view"
               target="_blank"
             >
-              <img src={images["greatlearning.png"]} height="40px" alt="" />
-              <h5 className="ude my-auto"> Introduction to DevOps</h5>
+              <img src={images["btb.png"]} height="40px" alt="" />
+              <h5 className="ude my-auto">BTB hackathon winner</h5>
+            </a>
+          </div>
+          <div className="my-auto" width="200">
+            <a
+              className="ud"
+              href="https://drive.google.com/file/d/1DVrg748IW56L1bzAUtVbTkRTdw9v9tdU/view?usp=sharing"
+              target="_blank"
+            >
+              <img src={images["duhacks.jpeg"]} height="40px" alt="" />
+              <h5 className="ude my-auto">DU HACKS hackathon</h5>
+            </a>
+          </div>
+          <div className="my-auto" width="200">
+            <a
+              className="ud"
+              href="https://www.theforage.com/achievements?ref=7n3e5BmFEeoj8gLKA/"
+              target="_blank"
+            >
+              <img src={images["forage.png"]} height="40px" alt="" />
+              <h5 className="ude my-auto">
+                J.P. Morgan Software Engineering Virtual Experience
+              </h5>
+            </a>
+          </div>
+          <div className="my-auto" width="200">
+            <a
+              className="ud"
+              href="https://drive.google.com/file/d/1DRX4tYHPop5oJG3iaPZvLCN8TZro5_Jo/view"
+              target="_blank"
+            >
+              <img src={images["duhacks.jpeg"]} height="40px" alt="" />
+              <h5 className="ude my-auto">DU HACKS 2.0 hackathon</h5>
+            </a>
+          </div>
+          <div className="my-auto" width="200">
+            <a
+              className="ud"
+              href="https://drive.google.com/file/d/1D89wYydqPoa8sDOJYUweGi6sLf-S3o-F/view"
+              target="_blank"
+            >
+              <img src={images["gfg.png"]} height="40px" alt="" />
+              <h5 className="ude my-auto">Solving for india hackathon</h5>
             </a>
           </div>
         </div>

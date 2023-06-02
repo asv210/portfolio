@@ -26,7 +26,7 @@ const Aboutme = () => {
               grip in OS , DBMS , CCN , OOP concepts. <br /> ~ 😄 Excellent in
               problem solving at various platforms like leetcode , codechef and
               hackerrank.
-              <br />~ 👯 Otherthan technical knowledge i am also good at
+              <br />~ 👯 Other than technical knowledge i am also good at
               building network <br />~ 🌱 And lead the team as i have
               participated in 5+ hackathons and won in 3+ out of them at various
               levels

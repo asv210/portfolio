@@ -45,8 +45,8 @@ const Skills = () => {
               </tr>
               <tr style={{ color: "white" }}>
                 <th scope="row">6</th>
-                <td>8.16</td>
                 <td>8.62</td>
+                <td>8.16</td>
               </tr>
               <tr style={{ color: "white" }}>
                 <th scope="row">7</th>

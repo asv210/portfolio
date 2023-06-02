@@ -66,7 +66,7 @@ Also i have put links below each column through which we will render to github p
             url2="https://youtu.be/0_8QZEQFW-w"
             photo={images["dmms.png"]}
             name="Diamond Merchant's Management System (DMMS)"
-            description="DMMP has three sections Owner, Manager and Worker. Owner can manage all persons in software, owner can add or remove manager, it can assign diamond to manager on day to day base and also change diamond price every day. Owner can change salary of manager"
+            description="DMMP has three sections Owner, Manager and Worker. Owner can manage cost and salary , owner can add or remove manager, it can assign diamond to manager on day to day base . manager will assign work to workers according to work assigned by owner and worker will only see that numbers."
           ></ProjectItem>
         </div>
       </div>

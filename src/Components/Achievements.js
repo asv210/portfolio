@@ -164,6 +164,18 @@ const Achievements = () => {
               <h5 className="ude my-auto">Solving for india hackathon</h5>
             </a>
           </div>
+          <div className="my-auto" width="200">
+            <a
+              className="ud"
+              href="https://badgr.com/backpack/badges/647da7254f07b5650c610f45"
+              target="_blank"
+            >
+              <img src={images["postman.png"]} height="40px" alt="" />
+              <h5 className="ude my-auto">
+                Postman API Fundamentals Student Expert
+              </h5>
+            </a>
+          </div>
         </div>
       </div>
     </>

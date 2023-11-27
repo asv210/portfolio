@@ -25,7 +25,7 @@ const Home = () => {
             <h3 className="dev">I'm a Developer</h3>
             <a
               className="dev1"
-              href="https://drive.google.com/file/d/1QTqOOZjXDXMmBPKYkGBNMef0QW8HDz3K/view?usp=sharing"
+              href="https://drive.google.com/file/d/1NbFkR6WLHhU40nRJIKJxC84PTNVzYiZD/view?usp=sharing"
               target="_blank"
             >
               Here's the resume Link

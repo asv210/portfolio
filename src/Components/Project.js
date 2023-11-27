@@ -25,7 +25,7 @@ const Projects = () => {
             description="history of stocks which they buy and sold, favorite stocks list, comparing stocks , get information of each stocks with graph, each of this things with privacy and security which we are providing in our project at free of cost."
           ></ProjectItem>
           <ProjectItem
-            url1="https://github.com/asv210/Gcp_gfg"
+            url1="https://github.com/asv210/Fortune-Farm"
             url2="https://www.youtube.com/watch?v=Ixp9rAkUXS8"
             photo={images["fortune.jpg"]}
             name="Fortune Farm"

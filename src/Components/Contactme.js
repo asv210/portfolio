@@ -53,7 +53,7 @@ const Contactme = () => {
               <input
                 type="hidden"
                 name="_next"
-                value="https://portfolio-apar1223.vercel.app/"
+                value="https://portfolio-apar.vercel.app/"
               />
               <label
                 className="textform d-flex justify-content-start"
@@ -97,7 +97,7 @@ const Contactme = () => {
         </div>
         <div className="icon1">
           <a
-            href="https://www.instagram.com/_.just._.av/"
+            href="https://www.instagram.com/apar2110/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -127,7 +127,7 @@ const Contactme = () => {
         </div>
         <div className="icon1">
           <a
-            href="https://twitter.com/apar_159"
+            href="https://twitter.com/0xdapar"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -135,7 +135,7 @@ const Contactme = () => {
               className="icon"
               width="30"
               height="30"
-              src={images["twitter.png"]}
+              src={images["twitter.svg"]}
               alt=""
             ></img>
           </a>

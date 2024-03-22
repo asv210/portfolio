@@ -248,4 +248,7 @@ justify-content: center;
   .ud {
     width: 85%;
   }
+  .dev{
+    font-size:20px;
+  }
 }
